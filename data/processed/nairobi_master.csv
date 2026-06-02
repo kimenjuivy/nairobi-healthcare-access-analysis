@@ -1,0 +1,18 @@
+geo_name,constituency,total_pop,area_sqkm,source,density_per_sqkm,source_type,confidence,total_facilities,weighted_score,level_2_count,level_3_count,level_4_count,level_5_count,level_6_count,facility_density,weighted_access_per_10k,HAII,HAII_normalised,rank
+Mathare,Mathare,206564,3.0,KNBS 2019,68854.67,KNBS 2019 direct,high,15,24,10,3,1,0,1,0.7262,1.1619,59260.4097,100.0,1
+Embakasi West,Embakasi West,272733,9.76,nairobipostalcode.org,27943.95,nairobipostalcode,low,27,35,20,6,1,0,0,0.99,1.2833,21775.0721,36.55,2
+Embakasi South,Embakasi South,272519,12.0,nairobipostalcode.org,22709.92,nairobipostalcode,low,24,32,16,8,0,0,0,0.8807,1.1742,19340.7597,32.43,3
+Embakasi North,Embakasi North,181388,5.43,Tuko.co.ke,33404.79,Tuko.co.ke,low,26,32,20,6,0,0,0,1.4334,1.7642,18934.809,31.74,4
+Ruaraka,Ruaraka,192620,7.18,Wikipedia/Ruaraka CDF,26827.3,KNBS 2019 direct,high,26,34,18,8,0,0,0,1.3498,1.7651,15198.7423,25.41,5
+Kamukunji,Kamukunji,261855,10.54,Wikipedia,24843.93,Wikipedia,medium,34,56,15,17,1,1,0,1.2984,2.1386,11616.9129,19.35,6
+Makadara,Makadara,218641,11.74,Wikipedia,18623.59,Wikipedia,medium,43,49,39,2,2,0,0,1.9667,2.2411,8310.0219,13.75,7
+Kasarani,Kasarani,780656,136.27,Wikipedia,5728.74,KNBS 2019 direct,high,48,54,42,6,0,0,0,0.6149,0.6917,8282.1165,13.71,8
+Embakasi Central,Embakasi Central,185948,8.18,Tuko.co.ke,22732.03,Tuko.co.ke,low,41,55,27,14,0,0,0,2.2049,2.9578,7685.452,12.7,9
+Kibra,Kibra,185777,12.13,Wikipedia,15315.5,KNBS 2019 direct,high,64,93,48,6,8,1,1,3.445,5.006,3059.4287,4.87,10
+Kilimani,Dagoretti North,181365,29.0,Wikipedia ward sum,6253.97,Wikipedia ward sum,medium,28,40,21,4,2,0,1,1.5438,2.2055,2835.6246,4.49,11
+Starehe,Starehe,274607,20.62,Wikipedia,13317.51,Wikipedia,medium,136,150,126,6,4,0,0,4.9525,5.4624,2438.0327,3.81,12
+Roysambu,Roysambu,265079,48.8,Grokipedia,5431.95,Grokipedia/Wikipedia,medium,61,68,55,5,1,0,0,2.3012,2.5653,2117.4716,3.27,13
+Dagoretti,Dagoretti South,178691,25.3,Wikipedia ward sum,7062.89,Wikipedia ward sum,medium,48,65,31,17,0,0,0,2.6862,3.6376,1941.6346,2.97,14
+Westlands,Westlands,308854,72.4,KNBS 2019/Grokipedia,4265.94,KNBS 2019 direct,high,61,75,52,5,3,1,0,1.975,2.4283,1756.7599,2.66,15
+Embakasi East,Embakasi East,255979,85.84,nairobipostalcode.org,2982.05,Wikipedia ward sum,medium,40,57,24,15,1,0,0,1.5626,2.2267,1339.224,1.95,16
+Langata,Langata,178282,209.81,Grokipedia,849.73,Grokipedia,medium,60,82,46,7,6,1,0,3.3655,4.5995,184.744,0.0,17

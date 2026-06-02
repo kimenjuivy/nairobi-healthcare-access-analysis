@@ -1,0 +1,18 @@
+geo_name,constituency,total_pop,area_sqkm,source,density_per_sqkm,source_type,confidence
+Westlands,Westlands,308854,72.4,KNBS 2019/Grokipedia,4265.94,KNBS 2019 direct,high
+Kilimani,Dagoretti North,181365,29.0,Wikipedia ward sum,6253.97,Wikipedia ward sum,medium
+Dagoretti,Dagoretti South,178691,25.3,Wikipedia ward sum,7062.89,Wikipedia ward sum,medium
+Langata,Langata,178282,209.81,Grokipedia,849.73,Grokipedia,medium
+Kibra,Kibra,185777,12.13,Wikipedia,15315.5,KNBS 2019 direct,high
+Roysambu,Roysambu,265079,48.8,Grokipedia,5431.95,Grokipedia/Wikipedia,medium
+Kasarani,Kasarani,780656,136.27,Wikipedia,5728.74,KNBS 2019 direct,high
+Ruaraka,Ruaraka,192620,7.18,Wikipedia/Ruaraka CDF,26827.3,KNBS 2019 direct,high
+Embakasi South,Embakasi South,272519,12.0,nairobipostalcode.org,22709.92,nairobipostalcode,low
+Embakasi North,Embakasi North,181388,5.43,Tuko.co.ke,33404.79,Tuko.co.ke,low
+Embakasi Central,Embakasi Central,185948,8.18,Tuko.co.ke,22732.03,Tuko.co.ke,low
+Embakasi East,Embakasi East,255979,85.84,nairobipostalcode.org,2982.05,Wikipedia ward sum,medium
+Embakasi West,Embakasi West,272733,9.76,nairobipostalcode.org,27943.95,nairobipostalcode,low
+Makadara,Makadara,218641,11.74,Wikipedia,18623.59,Wikipedia,medium
+Kamukunji,Kamukunji,261855,10.54,Wikipedia,24843.93,Wikipedia,medium
+Starehe,Starehe,274607,20.62,Wikipedia,13317.51,Wikipedia,medium
+Mathare,Mathare,206564,3.0,KNBS 2019,68854.67,KNBS 2019 direct,high
